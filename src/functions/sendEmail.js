@@ -15,11 +15,11 @@ exports.handler = async event => {
     const msg = {
         to: {
             name: 'Paul Brady',
-            email: process.env.SENDGRID_TO_EMAIL,
+            email: process.env.SENDGRID_EMAIL,
         },
         from: {
             name: `${name} via paulbrady.dev`,
-            email: process.env.SENDGRID_FROM_EMAIL,
+            email: `${email}`,
         },
         replyTo: { name, email },
         subject: subject || 'Contact Form Submission',
