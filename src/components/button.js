@@ -17,7 +17,7 @@ const ButtonText = styled.span`
         withPadding ? (iconLocation === 'left' ? '0 0 0 0.5rem' : '0 0.5rem 0 0') : '0'};
 `;
 const ButtonSpinner = styled(props => <Spinner {...props} />).attrs({
-    size: 2,
+    size: 1.6,
 })``;
 
 const Button = ({
