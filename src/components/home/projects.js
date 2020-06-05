@@ -185,6 +185,7 @@ const StyledImgContainer = styled.div`
 
     ${media.bp440`
         ${containerStyles}
+        margin-bottom: 1.6rem;
     `}
 `;
 const ProjectContainer = styled.div`
