@@ -20,7 +20,7 @@ module.exports = {
         },
         {
             name: 'LinkedIn',
-            url: 'https://www.linkedin.com/in/paul-brady-pb/',
+            url: 'https://www.linkedin.com/in/bradypp/',
         },
         {
             name: 'Twitter',
