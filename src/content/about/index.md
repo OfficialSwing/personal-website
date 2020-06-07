@@ -12,7 +12,7 @@ skills:
     - jQuery
     - C#
     - Bootstrap
-    - Tailwind CSS
+    - Webpack
     - Git & Bash
 ---
 
