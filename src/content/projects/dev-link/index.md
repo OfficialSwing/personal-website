@@ -19,7 +19,7 @@ tech:
     - Node.js
     - Express.js
     - MongoDB
-    - AWS
+    - AWS S3
     - Formik
 ---
 
